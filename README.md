@@ -38,7 +38,7 @@ All components connect directly to the Feather PropMaker RP2040 board.
 
 The saber hilt is composed of multiple 3D-printed sections that house the electronics.
 
-![Assembly Diagram](images/Lightsaber assembly.jpg)
+![Assembly Diagram](images/Lightsaber_assembly.jpg)
 
 **Assembly Steps:**
 1. Insert the **NeoPixel strip** inside the blade tube.  
