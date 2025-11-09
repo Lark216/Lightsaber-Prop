@@ -22,7 +22,7 @@ Designed to replicate the ignition, swing, and clash behavior of a real Jedi sab
 
 All components connect directly to the Feather PropMaker RP2040 board.
 
-![Wiring Diagram](images/wiring_diagram.jpg)
+![Wiring Diagram](Images/wiring_diagram.jpg)
 
 **Connections Overview:**
 | Connection | From | To |
@@ -38,7 +38,7 @@ All components connect directly to the Feather PropMaker RP2040 board.
 
 The saber hilt is composed of multiple 3D-printed sections that house the electronics.
 
-![Assembly Diagram](images/Lightsaber_assembly.jpg)
+![Assembly Diagram](Images/Lightsaber_assembly.jpg)
 
 **Assembly Steps:**
 1. Insert the **NeoPixel strip** inside the blade tube.  
@@ -93,5 +93,5 @@ Custom modifications © Kevin H.
 ---
 
  Images
-![Assembly](images/Lightsaber_assembly.jpg)
-![Wiring](images/wiring_diagram.jpg)
+![Assembly](Images/Lightsaber_assembly.jpg)
+![Wiring](Images/wiring_diagram.jpg)
