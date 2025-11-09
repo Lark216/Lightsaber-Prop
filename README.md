@@ -93,6 +93,5 @@ Custom modifications © Kevin H.
 ---
 
  Images
-![Labeled Diagram](images/labeled_diagram.png)
 ![Assembly](images/Lightsaber_assembly.jpg)
 ![Wiring](images/wiring_diagram.jpg)
