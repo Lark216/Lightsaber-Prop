@@ -90,8 +90,4 @@ License
 MIT License © 2023 Adafruit Industries  
 Custom modifications © Kevin H.
 
----
 
- Images
-[![View Assembly Diagram](images/Lightsaber_assembly.jpg)](images/Lightsaber_assembly.jpg)
-[![View Wiring Diagram](images/wiring_diagram.jpg)](images/wiring_diagram.jpg)
